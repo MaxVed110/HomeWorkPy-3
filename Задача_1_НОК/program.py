@@ -26,5 +26,5 @@ def Nok(numberFirst, numberSecond):
     return nok
 
 
-d = Nok(68, 34)
-print(d)
+nokUser = Nok(68, 34)
+print(nokUser)
